@@ -1,2 +1,2 @@
 # belajar-golang
-belajar golang
+belajar golang 2
