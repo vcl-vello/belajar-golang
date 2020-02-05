@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var a, b, c int
 
-	fmt.Println("hello world iya iyaa")
+	fmt.Println("hello world oke")
 
 	a = 5
 	b = 12
